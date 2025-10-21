@@ -49,7 +49,7 @@ Le code est traduit en langage **binaire**, ce qui permet d’y jouer sur tous l
 
 Pour la **version 0.6.3**, il te faut :
 
-### 🪛 Visual Studio 2019
+### 🪛 Visual Studio 2022
 Pendant l’installation, ajoute ces composants individuels :
 - **MSVC v142 - VS 2019 C++ x64/x86 build tools**
 - **Windows SDK (10.0.17763.0)**
