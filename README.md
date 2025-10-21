@@ -1,4 +1,4 @@
-# 🎵 Friday Night Funkin' - Multiverse Collection
+# 🎵 Friday Night Funkin' - Psych 0.6.3 - Patché et tritée comme 0.7
 
 Engine originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), intended as a fix for the vanilla version’s many issues while keeping its casual play aspect.  
 Also aims to be an easier alternative for beginner coders.
